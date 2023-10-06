@@ -1,5 +1,4 @@
-﻿using AutoMapper.Internal;
-using MagicVilla_Utility;
+﻿using MagicVilla_Utility;
 using MagicVilla_Web.Models;
 using MagicVilla_Web.Models.Dto;
 using MagicVilla_Web.Services.IServices;
@@ -9,10 +8,8 @@ using Newtonsoft.Json;
 using System.IdentityModel.Tokens.Jwt;
 using System.Net;
 using System.Net.Http.Headers;
-using System.Reflection;
 using System.Security.Claims;
 using System.Text;
-using static MagicVilla_Utility.SD;
 
 namespace MagicVilla_Web.Services
 {

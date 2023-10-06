@@ -2,7 +2,6 @@
 using MagicVilla_Web.Models;
 using MagicVilla_Web.Models.Dto;
 using MagicVilla_Web.Services.IServices;
-using Newtonsoft.Json.Linq;
 
 namespace MagicVilla_Web.Services
 {
